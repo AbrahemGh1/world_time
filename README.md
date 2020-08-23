@@ -5,7 +5,7 @@ Application to display time in different locations
 ## Getting Started
 
 <p>-Open the app.</p>
-<p>-Click on ** Edit location ** .</p>
+<p>-Click on _ Edit location _ .</p>
 <img src='/Screenshot_1597632431.png' width=450 height: 800>
 <p>-Choose location you want from the list.</p>
 <img src='/Screenshot_1597632393.png' width=450 height: 800>
