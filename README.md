@@ -4,11 +4,11 @@ application to display time in different locations
 
 ## Getting Started
 
-Open the app.
-Click on location.
-<img src='/Screenshot_1597632431.png' width=450>
-Choose location you want.
-<img src='/Screenshot_1597632393.png' width=450>>
+<p>Open the app.</p>
+<p>Click on location.</p>
+<img src='/Screenshot_1597632431.png' width=450 height: 800>
+<p>Choose location you want.</p>
+<img src='/Screenshot_1597632393.png' width=450 height: 800>
 
 This project is a starting point for a Flutter application.
 
@@ -19,6 +19,12 @@ This project is a starting point for a Flutter application.
     </svg>
   </a>Clone
 </h3>
+
+## Dependency 
+This app fetch time from following API http://worldtimeapi.org/
+Clone this repo to your local machine using https://github.com/AbrahemGh1/world_time.git
+
+
 
 
 
