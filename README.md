@@ -6,8 +6,8 @@ Application to display time in different locations
 
 <p>-Open the app.</p>
 
-<p markdown="1">
--Click on `Edit location`.
+<p> 
+-Click on<strong> Edit location</strong>.
 </p>
 
 <img src='/Screenshot_1597632431.png' width=450 height: 800>
