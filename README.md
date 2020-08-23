@@ -5,9 +5,9 @@ Application to display time in different locations
 ## Getting Started
 
 <p>-Open the app.</p>
+
 <p markdown="1">
-**Text** Text Text.
--Click on **Edit location**.
+-Click on `Edit location`.
 </p>
 
 <img src='/Screenshot_1597632431.png' width=450 height: 800>
