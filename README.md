@@ -10,9 +10,10 @@ Application to display time in different locations
 -Click on<strong> Edit location</strong>.
 </p>
 
-<img src='/Screenshot_1597632431.png' width=450 height: 800>
+<img src='/Screenshot_1597632431.png' width=450 height= 800>
+
 <p>-Choose location you want from the list.</p>
-<img src='/Screenshot_1597632393.png' width=450 height: 800>
+<img src='/Screenshot_1597632393.png' width=450 height= 800>
 
 ## Clone
 <p>Clone this repo to your local machine using https://github.com/AbrahemGh1/world_time.git</p>
